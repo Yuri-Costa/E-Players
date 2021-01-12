@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\ASPNET-core\\ASPNET-core.csproj": {}
+    "C:\\Users\\dev\\Desktop\\ASPNET_CORE\\ASPNET-core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\ASPNET-core\\ASPNET-core.csproj": {
+    "C:\\Users\\dev\\Desktop\\ASPNET_CORE\\ASPNET-core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\ASPNET-core\\ASPNET-core.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\ASPNET_CORE\\ASPNET-core.csproj",
         "projectName": "ASPNET-core",
-        "projectPath": "C:\\Users\\dev\\Desktop\\ASPNET-core\\ASPNET-core.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\ASPNET_CORE\\ASPNET-core.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\ASPNET-core\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\ASPNET_CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

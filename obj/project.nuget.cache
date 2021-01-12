@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y6pPK1nBj1kesC2fN4kRHkEJhTe1I8atXCx+oZ6Yp13kzEqY8Hg6MoOVnfwmtVlTf5MXNvl7sbEHYwls5j1ZQA==",
+  "dgSpecHash": "rOf08vH+HxdIC3HXlrP3ingHbZ1CnFPy2uuADpgr1a1HasupHU1tZrujTTu7ovrijSD1KUsjIS7ESe3r9de2ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\Desktop\\ASPNET-core\\ASPNET-core.csproj",
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\ASPNET_CORE\\ASPNET-core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
